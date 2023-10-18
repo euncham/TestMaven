@@ -12,7 +12,9 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<P> 안녕띠 </P>
-<img src="./image/rabbit.gif">
+<P> 안녕띠~~</P>
+<P> 안전띠!!</P>
+<P> 기모띠!!</P>
+<img src="./image/ddung.jpg">
 </body>
 </html>
